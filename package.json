@@ -1,0 +1,14 @@
+{
+  "name": "create_token",
+  "version": "1.0.0",
+  "description": "To create Own Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjana",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
