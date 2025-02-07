@@ -9,3 +9,8 @@ contract MyCoin is ERC20{
      _mint(msg.sender, 10000 * 10**3);
 }
 }
+
+//It is going to gives function such as
+
+//approve , transfer, transferForm, allowance, balanceOf
+//decimals, name, symbol, totalSupply, 
