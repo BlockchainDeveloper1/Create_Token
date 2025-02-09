@@ -16,4 +16,4 @@ contract MyCoin is ERC20{
 //It is going to gives function such as
 
 //approve , transfer, transferForm, allowance, balanceOf
-//decimals, name, symbol, totalSupply, 
+//decimals, name : name of the token, symbol : it shows symbol of token, totalSupply = shows total supply of token., 
