@@ -9,6 +9,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 contract MyCoin is ERC20{
 //This line defines a new contract named MyCoin that inherits from the ERC20 contract    
     constructor() ERC20("MY COIN" , "MC"){
+        //MY COIN is name of the token and MC is the symbol of the token
      _mint(msg.sender, 10000 * 10**3);
 }
 }
